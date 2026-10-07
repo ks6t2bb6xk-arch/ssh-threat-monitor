@@ -1,0 +1,4 @@
+2026-10-05T14:00:00Z demo sshd[100]: Failed password for alice from 198.51.100.20 port 50100 ssh2
+2026-10-05T14:00:05Z demo sshd[101]: Invalid user guest from 2001:db8::20 port 50101
+2026-10-05T14:00:06Z demo sshd[101]: Failed publickey for invalid user guest from 2001:db8::20 port 50101 ssh2
+2026-10-05T14:00:12Z demo sshd[102]: Accepted publickey for bob from 198.51.100.30 port 50102 ssh2
